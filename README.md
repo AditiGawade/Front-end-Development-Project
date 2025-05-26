@@ -1,12 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is just an TOdo list app project where we can configure all the files and uses how we can rounting and use of functions and class to implementing the react and javascript expression how we can use the dynamic components using the JSX with the use of bootstrap .
 
-Currently, two official plugins are available:
+To install the bootstrap  you can see the latest version of bootstrap website 
+npm i bootstrap@5.3.6
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+import 
+ to import use can use the css 
+ such as 
+ import "bootstrap/dist/css/bootstrap.min.css"; in the main.jsx file a
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+creating the project 
+npm create vite@latest
+
+cd project name 
+
+package install command 
+npm install
+
+
+to run project open new terminal 
+npm run dev 
+Go to localhost:ex 5173
